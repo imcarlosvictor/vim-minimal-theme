@@ -17,7 +17,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "budo"
+let colors_name = "min-theme"
 
 " Vim >= 7.0 specific colors
 if version >= 700
